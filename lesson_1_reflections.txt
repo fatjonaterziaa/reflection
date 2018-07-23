@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	It helped me to find quicker where would be a posible mistake. I could find the bug qiucker due to dhe diff command.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I could write the command lines faster.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    So that the programmer would have it easier to control different versions of the same project.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because I can go back to the old version whenever I want.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Yes.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	You can go back and fix any decision you repend taking , even findin out which ose the desicion and the line that messed up th programm.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	
+	You dont have lots of commits that maybe you won't need most of them.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Because there might be a connection between those files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+How might using version control make you more confident to make changes that could break something?
+
+
